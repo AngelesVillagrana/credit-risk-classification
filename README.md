@@ -9,3 +9,4 @@ This project focuses on credit risk classification using various machine learnin
 ## Project Structure
 
 - `credit_risk_classification.ipynb`: The main notebook containing data analysis, feature engineering, model building, and evaluation.
+- - `report.md`: Here is the analysis for the ML model.
